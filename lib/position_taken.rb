@@ -1,4 +1,4 @@
 def position_taken(board, index)
-  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  board == [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   index = board.i-1
 end
