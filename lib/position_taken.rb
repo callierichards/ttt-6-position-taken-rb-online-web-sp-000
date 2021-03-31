@@ -2,9 +2,9 @@ def position_taken?(board, index="X")
 
 if board[index] == "" || board[index] == " " || board[index] == nil
   return false
-  puts "Pick another space"
+  puts "Good choice"
 else
   return true
-  puts "Good choice"
+  puts "Pick another space"
 end
 end
